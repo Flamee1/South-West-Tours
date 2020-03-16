@@ -6,13 +6,14 @@ The target audience, not limited to
 
 *	Families
 *	Couples
-*	Photographers
+*	Nature Photographers
+* Nature enthusiast
 *	Young adults
 *	Retired adults
 *	Tourist, of all ages from outside America
 * Client
 
-The aim of the site is to sell packages of to the target audience that are listed above. The client wants to develop their site so that they can provide a renting service for equitment for people who want to go on a trip but don't want to be confidiefed to a tour and they also want to have luxery camping sites to hire out.
+The aim of the site is to sell a wider range of packages of to the target audience that are listed above. The client wants to develop their site so that they can provide a renting service for equitment for people who want to go on a trip but don't want to be confidiefed to a tour and they also want to have luxery camping sites to hire out.
 
 Who are interested in hiking, stand-up paddle boarding, fishing, kayaking, nature/outdoors, but not excluded to. There are also special trips to ghost mines, which could be suitable for the younger generation that would not find hiking or nature interesting.
 
